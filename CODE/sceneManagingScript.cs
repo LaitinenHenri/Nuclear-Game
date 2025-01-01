@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 //This script is used for the start button on the strating screen
 //WIll load the game scene when the button is pressed
 
