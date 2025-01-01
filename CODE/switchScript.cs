@@ -1,6 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 //This script will control the control rods and if they rase or not
 
 public class switchScript : MonoBehaviour
