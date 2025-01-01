@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
 
 //THis script controls the "control rods" the player can move
 //Important features are to absorb the neutrons when colliding and moving rods up and down
