@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 //this script is running on every U235 object and controlls them
 
 public class u235Script : MonoBehaviour
