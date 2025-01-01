@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
 
 //This script will track if the decrese water flow button is clicked
 
