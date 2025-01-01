@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 //This script handles how the flying neutrons act. 
 //These neutrons are spawned from the Uraniums at random to an random direction and when neutron collides with U235
 //Each neutron is running this script
