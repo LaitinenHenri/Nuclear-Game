@@ -1,6 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 //This script will track if the add water flow button is clicked
 
 public class flowUpScript : MonoBehaviour
