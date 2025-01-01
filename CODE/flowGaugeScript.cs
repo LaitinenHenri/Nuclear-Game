@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 //This script controls the water flow gauge (spirits and tags)
 
 
