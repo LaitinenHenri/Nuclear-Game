@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 //This script will set up the game by basically spawing in every object on the screen
 
 public class Spawner : MonoBehaviour
