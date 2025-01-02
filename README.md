@@ -1,5 +1,8 @@
 # Nuclear-Game
 
+**LINK TO DEMO VIDEO**
+https://youtu.be/hX-KJJZ-zPE
+
 This repository contains the code for my nuclear game made in unity. This repo will only contain the code, and there fore I have uploaded an video of the gameplay. 
 
 **IDEA:**
