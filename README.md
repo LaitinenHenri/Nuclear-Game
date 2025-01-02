@@ -8,10 +8,12 @@ This repository contains the code for my nuclear game made in unity. This repo w
 **IDEA:**
 All the credit for this idea has to be given to this youtube video about the nuclear reactor in chernobyl: https://www.youtube.com/watch?v=P3oKNE72EzU&list=LL&index=32
 At the time of watching that video I had no idea what I wanted to code next and after seeing that video I had an idea to create an game where you had the same set up
-as in the video but you could control the rods moving and how fast the water re appears. So on this project every visual and idealogigal credit has to go to the creator of that video: Higgsino physics.
+as in the video but you could control the rods moving and how fast the water re appears. So on this project the basic idea credit has to go to the creator of that video: Higgsino physics.
 But the code is fully created by me. This project was the first time ever using Unity and C#, luckily I seemed to catch on quick. 
+
+
 In this game the player can control the water flow by clicking the arrow button on the screen, this will slow down or increase the time in which the water will cooldown. The slower it coolsdown
-the more likely it is to boild and there for not destroy neutrons. Players can also control the controlrods that destroy the neurtrons when colliding with them. The player can choose which rods to control
+the more likely it is to boild and therefore not destroy neutrons. Players can also control the controlrods that destroy the neurtrons when colliding with them. The player can choose which rods to control
 by clicking the switches on the bottom of the screen and then lower or raise the rods by using the up and down arrow keys. The player can also stop the rods by pressing the left arrow key.
 
 
@@ -23,7 +25,7 @@ Here I will very briefly try to describe the different codes I created:
 
 
   sceneManagerScript.cs
-    -This script handels the scene canhging. In this game htere is only one change from the strat screen to the game itself
+    -This script handels the scene changing. In this game there is only one change from the start screen to the game itself
 
     
   spawner.cs
@@ -31,7 +33,7 @@ Here I will very briefly try to describe the different codes I created:
 
     
   uranium.cs 
-    -THis scrips controls the uranium elemnts on the screen. The uranium elements will spontaniously fire neutron into random directions and compust into U235 object.
+    -this scrips controls the uranium elements on the screen. The uranium elements will spontaniously fire neutron into random directions and compust into U235 object.
 
     
   U235Script.cs
@@ -39,7 +41,7 @@ Here I will very briefly try to describe the different codes I created:
 
     
   waterSCript.cs
-    -This will control the water block under every uranium objec. These blokcs will spontaniously destroy the neutrons, but will also "heat" up and change color when neutron passes though them. WIll eventually boil is water flow not big enough
+    -This will control the water block under every uranium object. These blocks will spontaniously destroy the neutrons, but will also "heat" up and change color when neutron passes though them. WIll eventually boil is water flow not big enough
 
     
   flowGaugeScrips.cs
