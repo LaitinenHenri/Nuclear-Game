@@ -29,7 +29,7 @@ Here I will very briefly try to describe the different codes I created:
 
     
   spawner.cs
-    -This scrip is ran when strating the game. This script is responsiple for spawnign all the object to the screen that are needed in the beginning. After that this script is no more used
+    -This scrip is ran when starting the game. This script is responsiple for spawning all the object to the screen that are needed in the beginning. After that this script is no more used
 
     
   uranium.cs 
